@@ -1,3 +1,5 @@
-#Hello Rails
+# Ruby on Rails Tutorial: "hello, world!"
 
-Solution to chapter 1 of [Ruby Tutorial](https://www.railstutorial.org/book/beginning#sec-bundler)
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
