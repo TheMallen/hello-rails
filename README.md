@@ -1,5 +1,6 @@
-# Ruby on Rails Tutorial: "hello, world!"
-
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Exercise 1
+-----------
+Author: Mathew Allen
+Class: CST82333 350
+Submitted to: Stanley Pieda
+Created: 2015-01-18 
