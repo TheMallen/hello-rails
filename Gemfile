@@ -1,3 +1,10 @@
+# Gemfile
+# Mathew Allen
+# CST82333 350
+# Exercise  1, 
+# Stanley Pieda
+# 2015-01-18 
+# Dependencies for hello-rails
 source 'https://rubygems.org'
 
 gem 'rails',        '4.2.0'
